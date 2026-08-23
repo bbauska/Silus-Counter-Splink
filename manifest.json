@@ -1,6 +1,9 @@
 {
- "name": "App",
- "icons": [
+  "name": "Silus Says Splink 200,000 Times",
+  "short_name": "Silus Splink", 
+  "start_url": "index.html",
+  "display": "standalone",
+  "icons": [
   {
    "src": "\/images/android-icon-36x36.png",
    "sizes": "36x36",
