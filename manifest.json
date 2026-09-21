@@ -1,6 +1,6 @@
 {
-  "name": "Silus Says Splink 200,000 Times",
-  "short_name": "Silus Splink", 
+  "name": "Silus Says 'Splink' 200,000 Times",
+  "short_name": "Silus Says 'Splink'", 
   "start_url": "index.html",
   "display": "standalone",
   "icons": [
