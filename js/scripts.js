@@ -1,6 +1,6 @@
 /* /js/scripts.js in github Silus-Counter making silus-counter-4.bauska.org */
 /* Jan 1, 2026 = xx,000 */
-let counter = 0;
+let counter = 5000;
 /* 5,000 Sep 18, 2026 Friday night 
   all times are approximate. */
 
