@@ -26,7 +26,7 @@ const period = [
 ];
 
 /* Emojis to substitute for snowflakes, just for fun */
-const fun = ['𝙎', '𝓼', '𝓢', '𝒮', '𝑺', '💡', '𝚂', '🐭', '🦊', '🐻', '🦅', '🍺', '🥵', '𝐒', '💀', '🤩','Ꮥ', 'Ⓢ'];
+const fun = ['𝙎', '😬', '😝', '🤑', '🤪', '💡', '😵‍💫', '🐭', '🦊', '🐻', '🦅', '🍺', '🥵', '𝐒', '💀', '🤩','🤢', 'Ⓢ'];
 
 /* The CSS styles for the snowflakes and container */
 const cssString = `.snowfall-container {
