@@ -1,7 +1,7 @@
-/* /js/scripts.js in github Silus-Counter making silus-counter-4.bauska.org */
-/* Jan 1, 2026 = xx,000 */
+/* /js/scripts.js in github Silus-Counter-Splink making silus-counter-splink.bauska.org */
 let counter = 5000;
 /* 5,000 Sep 18, 2026 Friday night 
+
   all times are approximate. */
 
 function count() {
