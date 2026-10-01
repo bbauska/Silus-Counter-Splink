@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- * /js/snowSplink.js
+ * /js/snowSplink.js of Silus-Counter-Splink for silus-counter-splink.bauska.org
  * Not doing any polyfills, this is a one-off, added fun little extra
  * Assumes window.requestAnimationFrame support, unprefixed CSS Transforms,
  * emoji support, and ES6 support
